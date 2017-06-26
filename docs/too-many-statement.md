@@ -106,7 +106,7 @@ jasmine - http://jasmine.github.io/
 
 ### COPE PASTE CODE SMELL 
 
-![alt_text](./images/copy-paste-code-circle-crop.png)
+![alt_text](./../images/copy-paste-code-circle-crop.png)
 
 REFACTOR
 
