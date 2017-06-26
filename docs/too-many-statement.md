@@ -1,4 +1,4 @@
-##SMELL CODE
+## SMELL CODE
 
 ### EXAMPLE1 :
 
@@ -132,7 +132,7 @@ RESOURCES:
 - jsinspect https://github.com/danielstjules/jsinspect
 - jscpd https://github.com/kucherenko/jscpd
 
-###MAGIC STRINGS
+### MAGIC STRINGS
 
 ```
 function getArea(shape, options) {
