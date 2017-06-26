@@ -1,5 +1,8 @@
 # js-code-smell
 code smell for refactor code 
+## expamples for code smell
+
+- [code smells](docs/too-many-statement.md)
 
 ## Bloaters
 
